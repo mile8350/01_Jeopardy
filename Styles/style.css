@@ -16,6 +16,10 @@ display: flex;
   font-size: 60px;
 }
 
+.grid-main h3 {
+  font-size: 30px;
+}
+
 #play-btn {
 text-align: center;
 background-color: lightblue;
