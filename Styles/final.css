@@ -27,7 +27,7 @@
     grid-row-end: span 4;
     }    
 
-      .user-input {
+    .user-input {
         background-color: white;
         color: black;
         border: 1px solid gray;
@@ -42,7 +42,7 @@
         text-align: left;
       }
 
-      .user-input2 {
+    .user-input2 {
         background-color: white;
         color: black;
         border: 1px solid gray;
